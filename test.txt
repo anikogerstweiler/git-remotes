@@ -1,3 +1,5 @@
 content
 
 This is a part of the homework from Robert Bottyan.
+
+This is a new line.
